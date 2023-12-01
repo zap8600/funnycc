@@ -233,7 +233,8 @@ static Node *primary(Token **rest, Token *tok) {
 static int depth;
 
 static void push(void) {
-  printf("  push %%eax\n");
+  //printf("  push %%eax\n");
+  printf("  push %%rax\n");
   depth++;
 }
 
