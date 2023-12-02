@@ -1,2 +1,2 @@
-# cc
-ccw
+# funnycc
+funnycc

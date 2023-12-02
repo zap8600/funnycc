@@ -1,3 +1,7 @@
-main.o
-funnycc
-tmp*
+**/*~
+**/\#*
+**/*.o
+**/*.s
+**/a.out
+/tmp*
+/funnycc
